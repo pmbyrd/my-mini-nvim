@@ -49,6 +49,7 @@ return {
         },
         f = {
           name = "+File",
+          e = { "<cmd>NvimTreeToggle<cr>", "Toggle NvimTree"},
         },
         g = {
           name = "+Git",
